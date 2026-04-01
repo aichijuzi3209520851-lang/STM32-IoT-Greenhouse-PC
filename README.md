@@ -732,18 +732,6 @@ SOFTWARE.
 - **Visual Studio** - 强大的集成开发环境
 - **Git** - 版本控制系统
 - **GitHub** - 代码托管平台
-
-### 特别感谢
-感谢所有为这个项目做出贡献的开发者和测试人员，以及提供宝贵反馈的用户们。
-
 ---
 
-## 📞 联系我们
-
-如果您有任何问题、建议或反馈，欢迎通过以下方式联系我们：
-
-- **Issue跟踪**: [GitHub Issues](../../issues)
-- **项目讨论**: [GitHub Discussions](../../discussions)
-- **邮箱**: your-email@example.com
-
-**⭐ 如果这个项目对您有帮助，请给我们一个Star！**
+**⭐ 如果这个项目对您有帮助，请给我一个Star！**
